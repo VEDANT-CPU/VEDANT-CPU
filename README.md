@@ -1,3 +1,5 @@
+<img align="centre" alt="Banner" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 # Hi, I'm Vedant Pawar 👋
 
 I'm an undergraduate at **BITS Pilani** (Pilani campus), pursuing a B.E. in Computer Science and Engineering. I have a strong foundation in mathematics and programming, and I am passionate about cybersecurity, cryptography, and algorithmic trading.
